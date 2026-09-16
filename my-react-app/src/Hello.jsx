@@ -1,3 +1,3 @@
-export default function Hello() {
-  return <p>こんにちは、React！</p>;
+export default function Hello(props) {
+  return <p>こんにちは、{props.name} さん！</p>;
 }
