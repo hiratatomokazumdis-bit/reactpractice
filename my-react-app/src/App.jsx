@@ -21,7 +21,7 @@ function App() {
     <>
       <h1>Hello React!</h1>
 
-      <Hello name="tomokazu" />
+      <Hello name="tomokazu hirata" />
 
       <p style={{ color: color }}>{message}</p>
       <p>現在の値: {count}</p>
