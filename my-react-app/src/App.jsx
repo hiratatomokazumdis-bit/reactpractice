@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>Hello React!</h1>
 
-      <Hello name="tomokazu" />
+      <Hello name="tomokazu hirata" />
 
       <p>これは React の学習用にシンプル化した画面です。</p>
 
